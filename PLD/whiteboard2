@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+defFindDuplicate(listofn):
+sortedlist=listofn.sort()
+
+For i in range(1,length(sorted list)):
+
+	If sortedlist[i]== sortedlist[i-1]:
+		return sortedlist[i]
+	
+
